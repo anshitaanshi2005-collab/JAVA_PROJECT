@@ -91,4 +91,4 @@ The VIT Bhopal Course & Records Manager (V-TOP) is a comprehensive, console-base
 | **Arrays & Utilities** | `ConsoleManager.printTranscript()`: Demonstrates `Arrays.sort()` and `Arrays.toString()` on an array of course codes. |
 | **Assertions** | `EnrollmentService.enrollStudent()`: `assert currentCredits >= 0` checks for an impossible internal state. |
 | **Labeled Jump** | `ConsoleManager.start()`: A `break mainLoop;` is used to exit the main application loop . |
-___
+
